@@ -1,0 +1,7 @@
+pybullet
+numpy
+matplotlib
+tqdm
+neat-python
+pydot
+noise

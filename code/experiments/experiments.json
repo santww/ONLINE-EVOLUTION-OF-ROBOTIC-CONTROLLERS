@@ -1,0 +1,16 @@
+{
+    "name": "Run",
+    "controls": {},
+    "conditions": [
+        {
+            "NEAT + Parameter Control": {
+                "parameter_control": true
+            }
+        },
+        {
+            "NEAT + Racing": {
+                "racing": true
+            }
+        }
+    ]
+}
